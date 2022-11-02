@@ -17,7 +17,7 @@ You may also see any lint errors in the console.
 
 
 
-## Snap  🤖
+## Snap  🤖...
 
 
 ![App Screenshot](./src/Images/preview.png)
